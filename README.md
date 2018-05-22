@@ -1,9 +1,4 @@
 
-How It Works
-------------
-
-Put "facedetect1.py" and "vania.mp4" into "samples" folder from the OpenCV package.
-
 
 System Requirements
 -------------------
